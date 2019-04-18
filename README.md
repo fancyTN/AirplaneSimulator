@@ -1,5 +1,4 @@
-# Design and implementation of vehicle motion 
-# simulation with the use scripts of Unity graphic engine.
+# Implementation of vehicle motion simulation with Unity.
 
  The objective of the work was to develop a design and implementation 
 of a vehicle motion simulator using the capabilities of the Unity graphic engine. 
