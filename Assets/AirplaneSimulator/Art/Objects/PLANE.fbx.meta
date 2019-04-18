@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 30ad963e54de01741a6f5db9eb67a243
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BODY
+    100002: COCKPIT_FRAME
+    100004: FLAP_LEFT
+    100006: FLAP_RIGHT
+    100008: //RootNode
+    100010: PROPELLER
+    100012: STEERING_HORIZONTAL
+    100014: STEERING_ROLL_LEFT
+    100016: STEERING_ROLL_RIGHT
+    100018: STEERING_VERTICAL
+    100020: WHEEL_HANDLER_LEFT
+    100022: WHEEL_HANDLER_REAR
+    100024: WHEEL_HANDLER_RIGHT
+    100026: WHEEL_LEFT
+    100028: WHEEL_REAR
+    100030: WHEEL_RIGHT
+    400000: BODY
+    400002: COCKPIT_FRAME
+    400004: FLAP_LEFT
+    400006: FLAP_RIGHT
+    400008: //RootNode
+    400010: PROPELLER
+    400012: STEERING_HORIZONTAL
+    400014: STEERING_ROLL_LEFT
+    400016: STEERING_ROLL_RIGHT
+    400018: STEERING_VERTICAL
+    400020: WHEEL_HANDLER_LEFT
+    400022: WHEEL_HANDLER_REAR
+    400024: WHEEL_HANDLER_RIGHT
+    400026: WHEEL_LEFT
+    400028: WHEEL_REAR
+    400030: WHEEL_RIGHT
+    2100000: No Name
+    2300000: BODY
+    2300002: COCKPIT_FRAME
+    2300004: FLAP_LEFT
+    2300006: FLAP_RIGHT
+    2300008: PROPELLER
+    2300010: STEERING_HORIZONTAL
+    2300012: STEERING_ROLL_LEFT
+    2300014: STEERING_ROLL_RIGHT
+    2300016: STEERING_VERTICAL
+    2300018: WHEEL_HANDLER_LEFT
+    2300020: WHEEL_HANDLER_REAR
+    2300022: WHEEL_HANDLER_RIGHT
+    2300024: WHEEL_LEFT
+    2300026: WHEEL_REAR
+    2300028: WHEEL_RIGHT
+    3300000: BODY
+    3300002: COCKPIT_FRAME
+    3300004: FLAP_LEFT
+    3300006: FLAP_RIGHT
+    3300008: PROPELLER
+    3300010: STEERING_HORIZONTAL
+    3300012: STEERING_ROLL_LEFT
+    3300014: STEERING_ROLL_RIGHT
+    3300016: STEERING_VERTICAL
+    3300018: WHEEL_HANDLER_LEFT
+    3300020: WHEEL_HANDLER_REAR
+    3300022: WHEEL_HANDLER_RIGHT
+    3300024: WHEEL_LEFT
+    3300026: WHEEL_REAR
+    3300028: WHEEL_RIGHT
+    4300000: WHEEL_LEFT
+    4300002: WHEEL_REAR
+    4300004: WHEEL_HANDLER_REAR
+    4300006: WHEEL_RIGHT
+    4300008: WHEEL_HANDLER_LEFT
+    4300010: WHEEL_HANDLER_RIGHT
+    4300012: FLAP_RIGHT
+    4300014: STEERING_ROLL_LEFT
+    4300016: FLAP_LEFT
+    4300018: PROPELLER
+    4300020: STEERING_ROLL_RIGHT
+    4300022: STEERING_HORIZONTAL
+    4300024: STEERING_VERTICAL
+    4300026: COCKPIT_FRAME
+    4300028: BODY
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 33
+    secondaryUVAreaDistortion: 35
+    secondaryUVHardAngle: 0
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
